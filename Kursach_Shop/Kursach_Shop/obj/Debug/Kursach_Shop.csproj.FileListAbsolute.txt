@@ -1,0 +1,57 @@
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\bin\Debug\Kursach_Shop.exe.config
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\bin\Debug\Kursach_Shop.exe
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\bin\Debug\Kursach_Shop.pdb
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.csproj.AssemblyReference.cache
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Properties.Resources.resources
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.csproj.GenerateResource.cache
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.exe
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.pdb
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.СУМ.resources
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Prosmotr.resources
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.csproj.ResolveComReference.cache
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Upravlenie.resources
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Add_g.resources
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Red_g.resources
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Inf_g.resources
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.UpravlenieM.resources
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Add_m.resources
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Inf_m.resources
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Red_m.resources
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.UpravlenieO.resources
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.UpravlenieT.resources
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Add_o.resources
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Add_t.resources
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Inf_o.resources
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Inf_t.resources
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Red_o.resources
+C:\Users\Андрей\source\repos\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Red_t.resources
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\bin\Debug\Kursach_Shop.exe.config
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\bin\Debug\Kursach_Shop.exe
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\bin\Debug\Kursach_Shop.pdb
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.csproj.AssemblyReference.cache
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.csproj.SuggestedBindingRedirects.cache
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.csproj.ResolveComReference.cache
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Add_g.resources
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Add_m.resources
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Add_o.resources
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Add_t.resources
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Inf_g.resources
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Inf_m.resources
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Inf_o.resources
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Inf_t.resources
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Red_g.resources
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Red_m.resources
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Red_o.resources
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Form_Red_t.resources
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Properties.Resources.resources
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Prosmotr.resources
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.Upravlenie.resources
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.UpravlenieM.resources
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.UpravlenieO.resources
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.UpravlenieT.resources
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.СУМ.resources
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.csproj.GenerateResource.cache
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.csproj.CoreCompileInputs.cache
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.exe
+D:\я уник\2 курс\1 семестр\ООПиП\курсач\курсач с патерном\Kursach_Shop\Kursach_Shop\obj\Debug\Kursach_Shop.pdb
